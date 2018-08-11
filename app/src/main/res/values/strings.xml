@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">POPular</string>
+    <string name="title_home">Home</string>
+    <string name="title_gallery">Gallery</string>
+    <string name="title_contact_us">Contact Us</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fff">conatct my</string>
+    <string name="title_activity_gallery">Gallery</string>
+    <string name="gallery">Gallery</string>
+    <string name="title_activity_contact__us">Contact Us</string>
+    <string name="contact">contact us</string>
+    <string name="emailtext">Email Us on:</string>
+    <string name="distinct_decorative_delight">Distinct | Decorative | Delight</string>
+    <string name="call_us_on">Call Us On:</string>
+    <string name="cell_no_2">9850696822</string>
+    <string name="cell_no_1">9960287893</string>
+    <string name="cell_no_3">9665740493</string>
+    <string name="address_head">Address:</string>
+    <string name="address" />
+    <string name="content">We partner to decorate one of the basic needs of human being, HOME. Earlier it was a need of having shelter to survive, but today it’s a need to build as well as decorate it so as to enhance and enjoy the stay. POPular is one such superb concern whose existence in this sphere is a genuine gift to the patrons. We offer the most excellent quality of false ceiling, decorative ceiling and gypsum board designs in Mumbai according to the tastes and needs of our clients.\n
+Our services started in the year 2016 and until now, we have marked a status in the marketplace because of our comprehensive knowledge and expertise. We offer an extensive variety of False Ceiling, Gypsum Board Partitions, False Ceiling Materials, PVC False Ceiling, Cement Fiber Board Ceiling, and lot more.\n
+Our Infrastructure\n
+We have experienced human resources who are capable to provide you with all possible projects at stipulated time period. Moreover, our highly advanced unit spreads over an extensive area.\n
+<b>WHY DO FALSE CEILING’S.</b>\n
+False Ceiling designs are one of the most important part of your home as they offer the maximum unobstructed view of any interior space. False ceilings can lend a definitive look and feel to your rooms and help you create a unique ambience. Besides transforming the aesthetics of a room, false ceilings offer immense functional benefits that translate into better lit, cooler, quieter and more energy efficient rooms\n
+<b>WALL PUNNING?</b>\n
+Wall Punning is the process of applying thin layers of plaster (about 3-5 mm) on the interior as well as exterior walls/ beams/columns. This helps to enhance the aesthetic appeal of the place. If your walls are facing the problems of large undulations or perhaps the plastered surface is uneven, then it is essential to opt for effective wall punning services.\n
+<b>BENEFITS OF PLASTER OF PARIS WALL PUNNING</b>\n
+1.	Apart from rendering a decorative appeal, POP wall punning enhances the wall shine and smoothness.\n
+2.	It effectively hides all the plastering cracks and other defects.\n
+3.	It provides for optimum protection against seepage.\n
+4.	The process of Plaster of Paris Wall Punning is time saving. It reduces the plastering time by a stupendous value of 70%.\n
+5.	Plaster of Paris is a great material that has low thermal conductivity. It therefore helps in saving on electricity.\n
+
+</string>
+    <string name="addresslines" >
+        Ground Floor, Navjeeven House,\n
+        M.G.Road, Chulna Village,\n
+        Vasai(W),\n
+        Palgar-401202\n
+    </string>
+
+</resources>
